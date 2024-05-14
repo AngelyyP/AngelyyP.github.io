@@ -1,0 +1,13 @@
+
+.bg-custom-color {
+    background-color: rgb(103, 95, 83); 
+}
+a{
+    font-family: "lumos", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.custom-text-size {
+    font-size: 20px; /* Cambia esto al tamaño de texto que desees */
+}
